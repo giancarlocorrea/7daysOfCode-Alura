@@ -87,13 +87,10 @@ Você também pode aprender mais sobre o while nesse site.
 
 # RESPOSTA DO DESAFIO DO DIA 2
 
-<a href='https://gist.github.com/fabriciocarraro/bc662a319215f1d2695444cba564ca5a?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Lógica+JS+3%2F7%3A+Fluxo+de+decisão&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28Lógica+de+Programação+-+JavaScript%29+Dia+3%3A+Fluxo+de+decisão'>  
+<a href='https://github.com/giancarlocorrea/7daysOfCode-Alura/blob/master/Day2/Variaveis.js'>  
 - Solução do Dia 2 
 </a>
 
-<a href='https://gist.github.com/fabriciocarraro/7a5279e57be481f990ae54daeb077078?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Lógica+JS+3%2F7%3A+Fluxo+de+decisão&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28Lógica+de+Programação+-+JavaScript%29+Dia+3%3A+Fluxo+de+decisão'>
-- Solução do Dia 2 (com desafio Opcional)
-</a>
 
 Já estamos chegando na metade desta jornada, hein?
 
