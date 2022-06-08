@@ -18,7 +18,7 @@ function addArray(arr, item, category) {
 
 //função para Remover um item da Lista de Compras
 function removeArray(array, item) {
-  let pos = array.indexOf(item)
+  const pos = array.indexOf(item)
   if (pos == -1) {
     return pos
   }
@@ -33,7 +33,7 @@ function mostraLista() {
 
 // Loop para adicionar os itens na lista
 while (resposta) {
-  let opcao = prompt(
+  const opcao = prompt(
     `Digite a opção\n1- Adicionar um item na lista de compras\n2- Remover um item da lista de compras\n3- Mostrar Lista de Compras\n4-Sair`
   )
 
